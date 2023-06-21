@@ -1,0 +1,20 @@
+.services-cards {
+    padding: 30px;
+    height: 50vh;
+    background-color: #F4EEE9;
+    border: none;
+    border-radius: 30px;
+    width: 230px !important;
+}
+
+.text-name {
+    color: gray;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+}
+
+.text-description {
+    color: gray;
+    font-family: "Poppins", Sans-serif;
+}
