@@ -1,7 +1,8 @@
 #btnHome {
   background-color: #00A057 !important;
   border-color: #00A057;
-  border-radius: 20px;
+  border: none;
+  border-radius: 25px;
   padding: 10px;
   width: 100px !important;
   color: #FFFFFF;
@@ -12,4 +13,45 @@
   background-color: #FFFFFF !important;
   border-color: #FFFFFF !important;
   color: #707070 !important;
+  border: none;
 }
+
+
+#btnShopping {
+  background-color: #00A057 !important;
+  border-color: #00A057;
+  border-radius: 25px;
+  padding: 10px;
+  width: 100px !important;
+  color: #FFFFFF;
+  border: none;
+}
+
+.lang-spanish {
+  margin-right: 15px;
+  margin-left: 30px;
+  margin-top: 8px;
+}
+
+.lang-english {
+  margin-right: 30px;
+  margin-top: 8px;
+}
+
+#btnSettings:hover {
+  background-color: #00A057 !important;
+  border-color: #00A057;
+  border-radius: 25px;
+  padding: 10px;
+  width: 135px !important;
+  color: #FFFFFF !important;
+}
+
+#btnShopping:hover {
+  background-color: #FFFFFF !important;
+  border: none;
+  padding: 10px;
+  width: 100px !important;
+  color: gray;
+}
+

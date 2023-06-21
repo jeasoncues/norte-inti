@@ -1,0 +1,14 @@
+.main-banner {
+    height: 80vh;
+    width: 100%;
+    background-color: #FFFFFF;
+    background-image: url('/src/assets/banner1.png');
+    background-size: cover;
+    background-position: center;
+    background-color: red;
+}
+
+.banner {
+    border-bottom-right-radius: 50%;
+    left: 0px;
+}
